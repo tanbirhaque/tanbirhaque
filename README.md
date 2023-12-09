@@ -5,11 +5,8 @@
 [![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png)](https://www.linkedin.com/in/tanbirhaque/)
 
 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=default)
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default)
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default" alt="Profile details badge"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=prussian)](https://git.io/streak-stats)
 
 
 <div align="center">
