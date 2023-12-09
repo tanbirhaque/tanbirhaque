@@ -8,7 +8,7 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io) -->
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=prussian" alt="GitHub Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default" alt="GitHub Profile Details" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
