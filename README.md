@@ -6,6 +6,12 @@
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight)
 
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight)
+
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight)
+
+
+
 ![Anirat04 trophies](https://github-readme-stats.vercel.app/api?username=Anirat04&theme=tokyonight&show_icons=true)
 
 ![Anirat04 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight)
