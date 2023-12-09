@@ -8,6 +8,10 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=prussian)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=prussian)
+
 <table>
   <tr>
     <td align="center">
