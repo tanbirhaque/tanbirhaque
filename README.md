@@ -1,11 +1,14 @@
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanbir+Haque+Anil!;" />
 </h1> -->
-
+<!-- header -->
 <a href="https://www.linkedin.com/in/tanbirhaque/" target="_blank">
   <img src="https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png" alt="Header" width="100%">
 </a>
 
+
+## My Current Stats
+<!-- details -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight" alt="Profile details" width="100%" />
 </p>
