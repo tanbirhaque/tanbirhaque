@@ -6,9 +6,10 @@
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight)
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight)
-
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight)
+<div style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight" alt="Top languages by repo" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight" alt="Top languages by commit" width="400" />
+</div>
 
 
 
