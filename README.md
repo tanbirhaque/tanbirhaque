@@ -7,7 +7,7 @@
 </a>
 
 
-## My Current Stats
+## 📈 My current stats
 <!-- details -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight" alt="Profile details" width="100%" />
@@ -25,7 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="48%" />
 </div>
 
-
+<!-- 
 <div align="center">
   <table style="margin: auto;">
     <tr>
@@ -41,7 +41,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 
 <!-- **Anirat04/Anirat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
