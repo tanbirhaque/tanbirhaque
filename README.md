@@ -6,9 +6,9 @@
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight)
 
-![Anirat04 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight)
+![Anirat04 trophies](https://github-readme-stats.vercel.app/api?username=Anirat04&theme=tokyonight&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=prussian)](https://git.io/streak-stats)
+![Anirat04 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight)
 
 
 <div align="center">
