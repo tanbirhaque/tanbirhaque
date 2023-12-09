@@ -13,6 +13,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight" alt="Profile details" width="100%" />
 </p>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&show_icons=true&theme=tokyonight" alt="Anirat04 trophies" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="48%" />
+</div>
+
 <div style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight" alt="Top languages by repo" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight" alt="Top languages by commit" width="400" />
@@ -20,10 +25,7 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&theme=tokyonight&show_icons=true" alt="Anirat04 trophies" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="48%" />
-</div>
+
 
 ## 💻 Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,express,mongodb,nodejs,firebase,git,github)](https://skillicons.dev)
@@ -49,7 +51,7 @@
 
 <!-- **Anirat04/Anirat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-👀 Current overview:
+## 👀 Current overview:
 
 - 🔭 I’m currently working on my portfolio using react
 - 🌱 I’m currently learning Advanced JavaScript, Next.JS, Mongoose, SASS
