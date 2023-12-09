@@ -6,6 +6,9 @@
   <img src="https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png" alt="Header" width="100%">
 </a>
 
+## About me
+👋 Hi, I'm Tanbir Haque Anil, a junior frontend web developer with a knack for React. Passionate about creating seamless and engaging user experiences. Currently exploring the world of backend development with Next.js. Open to collaborations and always eager to learn. Let's code something amazing! 🚀
+
 
 ## 📈 My current stats
 <!-- details -->
