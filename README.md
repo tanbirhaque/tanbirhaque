@@ -4,7 +4,9 @@
 
 [![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png)](https://www.linkedin.com/in/tanbirhaque/)
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight)
 
+![Anirat04 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=prussian)](https://git.io/streak-stats)
 
