@@ -9,15 +9,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=prussian)
 
-<!-- Top languages by REPO -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=prussian)
-<!-- Top languages by COMMIT -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=prussian)
+<div align="center" style="margin-top: 20px;">
+  <!-- Top languages by REPO Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=prussian" alt="Top Languages by Repository" width="45%" />
 
-<!-- Stats -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=prussian)
-<!-- Commits UTC -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8)
+  <!-- Top languages by COMMIT Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=prussian" alt="Top Languages by Commit" width="45%" />
+</div>
 
 <div align="center">
   <!-- Stats Card -->
