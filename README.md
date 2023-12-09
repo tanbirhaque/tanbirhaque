@@ -4,6 +4,10 @@
 
 [![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png)](https://www.linkedin.com/in/tanbirhaque/)
 
+
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=default)
+
+
 <div align="center">
   <table style="margin: auto;">
     <tr>
