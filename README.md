@@ -28,20 +28,22 @@
 </div>
 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://githubtrends.io/user/svg/Anirat04/langs?time_range=one_year&use_percent=True&theme=dark">
-        <img src="https://api.githubtrends.io/user/svg/Anirat04/langs?time_range=one_year&use_percent=True&theme=dark" alt="GitHub Trends Languages" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark">
-        <img src="https://api.githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="GitHub Trends Repositories" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="margin: auto;">
+    <tr>
+      <td align="center">
+        <a href="https://githubtrends.io/user/svg/Anirat04/langs?time_range=one_year&use_percent=True&theme=dark">
+          <img src="https://api.githubtrends.io/user/svg/Anirat04/langs?time_range=one_year&use_percent=True&theme=dark" alt="GitHub Trends Languages" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark">
+          <img src="https://api.githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="GitHub Trends Repositories" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!-- **Anirat04/Anirat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
