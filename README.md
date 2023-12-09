@@ -33,6 +33,14 @@
 ## 💻 Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,express,mongodb,nodejs,firebase,git,github)](https://skillicons.dev)
 
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Flinkedin-logo&psig=AOvVaw0WVVe0fCrxvuva2vDrW8KF&ust=1702207868362000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDs5uWggoMDFQAAAAAdAAAAABAD">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+
+<br />
+
 <!-- 
 <div align="center">
   <table style="margin: auto;">
