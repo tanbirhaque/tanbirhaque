@@ -4,30 +4,7 @@
 
 [![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png)](https://www.linkedin.com/in/tanbirhaque/)
 
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirat04/langs?time_range=one_year&use_percent=True&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anirat04/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io) -->
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default" alt="GitHub Profile Details" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- Top languages by REPO Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=prussian" alt="Top Languages by Repository" width="45%" />
-
-  <!-- Top languages by COMMIT Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=prussian" alt="Top Languages by Commit" width="45%" />
-</div>
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=default" alt="GitHub Stats" width="45%" />
-
-  <!-- Commits UTC Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8" alt="GitHub Commits UTC" width="45%" />
-</div>
-
-<!-- checking for commits -->
 
 
 <div align="center">
