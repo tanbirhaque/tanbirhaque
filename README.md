@@ -7,6 +7,10 @@
 
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=default)
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=default" alt="Profile details badge"/>
+
 
 <div align="center">
   <table style="margin: auto;">
