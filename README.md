@@ -19,17 +19,14 @@
 <!-- Commits UTC -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div align="center">
   <!-- Stats Card -->
-  <div style="flex: 1; margin: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=prussian" alt="GitHub Stats" />
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=prussian" alt="GitHub Stats" width="45%" />
 
   <!-- Commits UTC Card -->
-  <div style="flex: 1; margin: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8" alt="GitHub Commits UTC" />
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8" alt="GitHub Commits UTC" width="45%" />
 </div>
+
 
 <table>
   <tr>
