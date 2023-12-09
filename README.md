@@ -17,9 +17,10 @@
 
 
 
-![Anirat04 trophies](https://github-readme-stats.vercel.app/api?username=Anirat04&theme=tokyonight&show_icons=true)
-
-![Anirat04 streak badge](https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&theme=tokyonight&show_icons=true" alt="Anirat04 trophies" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="48%" />
+</div>
 
 
 <div align="center">
