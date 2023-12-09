@@ -21,7 +21,7 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=prussian" alt="GitHub Stats" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirat04&theme=default" alt="GitHub Stats" width="45%" />
 
   <!-- Commits UTC Card -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirat04&theme=prussian&utcOffset=8" alt="GitHub Commits UTC" width="45%" />
