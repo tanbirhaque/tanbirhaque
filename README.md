@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image%20(1).png)
+![Header](https://raw.githubusercontent.com/Anirat04/Anirat04/main/images/github-header-image.png)
 
 
 <!-- **Anirat04/Anirat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
