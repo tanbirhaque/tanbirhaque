@@ -37,9 +37,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tanbirhaque/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/TanbirHaque04)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanbirhaque/">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://twitter.com/TanbirHaque04">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+  </a>
+</p>
 
 <br />
+
 
 <!-- 
 <div align="center">
