@@ -38,10 +38,10 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanbirhaque/">
+  <a href="https://www.linkedin.com/in/tanbirhaque/" target="_blank">
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
   </a>
-  <a href="https://twitter.com/TanbirHaque04">
+  <a href="https://twitter.com/TanbirHaque04" target="_blank">
     <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
   </a>
 </p>
