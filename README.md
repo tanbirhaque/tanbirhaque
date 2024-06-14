@@ -12,19 +12,27 @@
 
 ## 📈 My current stats
 <!-- details -->
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirat04&theme=tokyonight" alt="Profile details" width="100%" />
-</p>
+</p> -->
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&show_icons=true&theme=tokyonight" alt="Anirat04 trophies" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="48%" />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&show_icons=true&theme=tokyonight" alt="Anirat04 trophies" width="50%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" width="50%" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirat04&show_icons=true&theme=tokyonight" alt="Anirat04 trophies" style="height: 200px; display: inline-block; vertical-align: middle;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirat04&theme=tokyonight" alt="Anirat04 streak badge" style="height: 200px; display: inline-block; vertical-align: middle;"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
+
+
+<!-- <div style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirat04&theme=tokyonight" alt="Top languages by repo" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirat04&theme=tokyonight" alt="Top languages by commit" width="400" />
-</div>
+</div> -->
 
 
 
