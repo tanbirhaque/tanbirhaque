@@ -41,6 +41,7 @@
 ## 💻 Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,express,mongodb,nodejs,firebase,git,github)](https://skillicons.dev)
 
+<!-- 
 ## :mailbox: Reach me out
 
 <br />
@@ -55,7 +56,7 @@
 </p>
 
 <br />
-
+-->
 
 <!-- 
 <div align="center">
