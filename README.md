@@ -19,5 +19,5 @@
 - 🌱 I’m learning Advanced JavaScript, TypeScript, Prisma, and Redux.  
 - 👯 I’m looking to collaborate on projects that challenge me and contribute to the developer community.  
 - 🤔 I’m seeking guidance on mastering design patterns and improving code scalability.  
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tanbirhaque/) or [Twitter](https://x.com/TanbirHaque04/). Let’s chat!  
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tanbirhaque/). Let’s chat!  
 - ⚡ Fun fact: I started coding because I wanted to become a hacker! 😂
